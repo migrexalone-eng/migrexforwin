@@ -1,0 +1,17 @@
+{
+  "VSN-A95F-002F-E9B2": {
+    "owner": "Vosien Roleplay",
+    "ip": ["185.34.101.40"],
+    "expires": "",
+    "active": true,
+    "note": "Ana sunucu"
+  },
+
+  "VSN-0000-0000-0000": {
+    "owner": "Ornek - test sunucusu",
+    "ip": ["1.2.3.4", "5.6.7.8"],
+    "expires": "2027-01-01",
+    "active": false,
+    "note": "ip birden fazla olabilir. expires bos birakilirsa sure sinirsiz. active false yapilirsa lisans aninda gecersiz olur."
+  }
+}
